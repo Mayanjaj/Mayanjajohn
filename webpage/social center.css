@@ -1,0 +1,58 @@
+.fa-square-youtube{
+	background-color:#E4620C;
+	color:#66E40C;
+	font-size:90px;
+	padding-left:100px;
+}
+.fa-square-instagram{
+	background-color:#E4620C;
+	color:#66E40C;
+	font-size:90px;
+	padding-left:100px;
+}
+body{
+	background-color:#3DE0E7;
+	 border:15px solid blue; 
+}
+h1{
+	background-color:orange;
+	font-size:50px;
+	font-family:algerian;
+	color:blue;
+	text-align:center;
+}
+div.a{
+	display:block;
+	background-color:pink;
+	width:auto;
+	height:auto;
+	text-align:center;
+	font-size:25px;
+	color:green;
+}
+h2{
+background-color:Gray;
+	font-size:30px;
+	font-family:algerian;
+	color:#3DE0E7;
+	text-align:center;	
+}
+div.b{
+	background-color:lightgreen;
+	font-size:20px;
+	font-family:italic;
+	color:white;
+	text-align:center;
+	width:auto;
+	height:auto;
+}
+h3{
+	font-size:20px;
+	font-family:algerian;
+	color:orange;
+	text-align:left;
+}
+p{
+	color:darkblue;
+	font-size:20px;
+}
